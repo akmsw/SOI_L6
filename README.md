@@ -1,4 +1,4 @@
-# Laboratorio Nº6 - MMap
+# MMap
 
 Este laboratorio hace hincapié en la utilización de archivos binarios y de mecanismos de mapeo de memoria.\
 En  la carpeta _rawdata_ se encuentra el archivo binario llamado _datos_. El archivo contiene información obtenida por el radar meteorológio RMA1 instalado en Ciudad Universitaria (UNC). Este programa debe mapear el archivo en memoria RAM y castearlo al tipo de dato de acuerdo a la siguiente estructura:
